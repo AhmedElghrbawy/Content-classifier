@@ -1,0 +1,587 @@
+aerobics
+match
+matches
+victory
+fifa
+defeat
+archer
+archery
+arena
+arrow
+olympic
+marathon
+athlete
+athletes
+athletics
+axel
+badminton
+ball
+balls
+base
+baseball
+basketball
+bat
+baton
+batter
+batting
+biathlon
+bicycle
+bicycling
+bike
+bikes
+biking
+billiards
+bobsleigh
+bocce
+boomerang
+boules
+bow
+bowler
+bowling
+boxer
+boxing
+bronze medal
+bunt
+canoe
+canoeing
+catch
+catcher
+champion
+champions
+championship
+cleats
+club
+clubs
+coach
+compete
+competing
+competition
+competitor
+crew
+cricket
+croquet
+cross country
+cue
+curling
+cycle
+cycling
+cyclist
+dart
+dartboard
+deadlifting
+decathlon
+defense
+diamond
+discus
+dive
+diver
+diving
+dodgeball
+doubleheader
+dugout
+épée
+equestrian
+equipment
+exercise
+fencing
+field
+field hockey
+fielder
+fielding
+figure skating
+fitness
+football
+forward
+free throw
+Frisbee
+game
+gear
+geocaching
+go
+goal
+goals
+goalie
+medal
+golf
+golfer
+golfing
+guard
+gym
+gymnasium
+gymnast
+gymnastics
+halftime
+hammer throw
+handball
+hang gliding
+hardball
+helmet
+heptathlon
+high jump
+hitter
+hockey
+hole-in-one
+home
+home plate
+home run
+home team
+hoop
+horseshoes
+huddle
+hurdle
+ice hockey
+ice rink
+ice skates
+ice skating
+infield
+infielder
+inline skates
+inning
+jai-alai
+javelin
+jog
+jogger
+judo
+jump
+jump rope
+jumper
+jumping
+karate
+kayak
+kayaker
+kayaking
+kickball
+kite
+kneepads
+kung fu
+lacrosse
+lawn bowling
+league
+long jump
+lose
+loser
+luge
+lutz
+major league
+mallet
+martial arts
+mat
+medal
+minor league
+mitt
+mouthguard
+move
+movement
+MVP
+net
+no-hitter
+Nordic skiing
+offense
+ollie
+Olympics
+orienteering
+out
+outfield
+outfielder
+paddle
+paddleball
+paddling
+paintball
+parasailing
+parkour
+pentathlon
+pickleball
+ping pong
+pitch
+pitcher
+play
+player
+players
+playing
+playoffs
+pogo stick
+pole
+pole vault
+polo
+pool
+puck
+quarter
+quarterback
+quiver
+race
+racer
+racewalking
+racing
+racket
+racquetball
+rafting
+referee
+relay
+ride
+riding
+rink
+rock climbing
+roller skates
+roller skating
+row
+rower
+rowing
+rugby
+run
+runner
+running
+sailing
+score
+scoreboard
+scuba
+scull
+sculling
+shortstop
+shot put
+silver medal
+skate
+skating rink
+skeleton
+ski
+skier
+skiing
+slalom
+sled
+sledder
+sledding
+snorkeling
+snowboard
+snowboarder
+snowboarding
+snowshoeing
+soccer
+softball
+somersault
+speed skating
+sport
+sportsmanship
+squash
+stadium
+stadiums
+stick
+strike
+stroke
+Sumo wrestling
+surfer
+surfing
+swim
+swimmer
+swimming
+synchronized swimming
+table tennis
+taekwondo
+tag
+target
+team
+teammate
+tee
+telemark skiing
+tennis
+tetherball
+throw
+throwing
+tie
+toboggan
+track and field
+trampoline
+triathlete
+triathlon
+triple jump
+triple play
+tug of war
+ultramarathon
+ultramarathoner
+umpire
+unicycle
+unicyclist
+uniform
+vault
+vaulter
+vaulting
+visiting team
+volley
+volley ball
+wakeboarding
+walk
+walker
+walking
+water polo
+water ski
+water skier
+water skiing
+weightlifter
+weightlifting
+weights
+wetsuit
+white water rafting
+wicket
+win
+windsurfer
+windsurfing
+winner
+winning
+World Cup
+World Series
+wrestler
+wrestling
+American League
+assist
+at bat
+athlete
+ball
+base
+baseball
+baserunning
+bases loaded
+bat
+batboy
+batter
+batting team
+bullpen
+bunt
+card
+catch
+catcher
+center field
+center fielder
+champion
+club
+clutch hitter
+curveball
+deck
+defense
+designated hitter
+diamond
+double header
+equipment
+farm team
+fastball
+field
+fielder
+fielding team
+first
+foul
+game
+games
+gear
+ground ball
+hardball
+helmet
+hits
+ho-hitter
+home
+home plate
+home team
+infield
+inning
+knuckleball
+league
+left field
+left hander
+line drive
+lineup
+lose
+Major League
+Minor League
+mitt
+mound
+MVP
+National League
+nine
+offense
+out
+outfield
+park
+league
+pinch hitter
+pitch
+pitcher
+pitcher\'s mound
+RBI
+relief pitcher
+right field
+run
+saves
+score
+scoreboard
+second
+shortstop
+slide
+slugger
+softball
+spitball
+sport
+sportsmanship
+spring training
+stadium
+starting pitcher
+steal
+stolen
+strike
+sweet spot
+switch hitter
+tag
+team
+teammate
+third
+throw
+triple play
+umpire
+uniform
+vault
+visiting team
+walk
+win
+Liverpool
+Manchester City
+Barcelona
+Bayern München
+Ajax Amsterdam
+Juventus
+Paris Saint-Germain
+Atlético Madrid
+Chelsea FC
+Shakhtar Donetsk
+SSC Napoli
+Borussia Dortmund
+FC Porto
+Arsenal
+Inter Milan
+Flamengo
+RasenBallsport Leipzig
+PSV Eindhoven
+Atalanta
+Real Madrid
+Benfica
+River Plate
+Salzburg
+Valencia
+Boca Juniors
+Palmeiras
+Getafe
+Sevilla
+Roma
+FK Red Star Belgrade
+Real Sociedad
+Zenit St. Petersburg
+Bayer Leverkusen
+Wolfsburg
+Tottenham Hotspur
+Dynamo Kyiv
+Slavia Prague
+Racing Club
+PFC Ludogorets 1945 Razgrad
+Villarreal
+Sporting
+Eintracht Frankfurt
+Manchester United
+Grêmio
+Lyon
+Leicester City
+Olympiakos
+Athletic Bilbao
+PAOK Thessaloniki FC
+Dinamo Zagreb
+Luka
+Modric
+Cristiano
+Ronaldo
+Lionel
+Messi
+Kylian
+Mbappe
+Mohamed
+Salah
+Antoine
+Griezmann
+Eden
+Hazard
+Kevin
+de
+Bruyne
+Harry
+Kane
+N'Golo
+Kante
+Neymar
+Raphael
+Varane
+Ivan
+Rakitic
+Luis
+Suarez
+Sergio
+Aguero
+Paul
+Pogba
+Sergio
+Ramos
+Marcelo
+Sadio
+Mane
+David
+Silva
+Edinson
+Cavani
+Toni
+Kroos
+Roberto
+Firmino
+Virgl
+Van
+Dijk
+Philippe
+Coutinho
+Paolo
+Dybala
+Jan
+Oblak
+Isco
+Ivan
+Perisic
+Robert
+Lewandowski
+Raheem
+Sterling
+Mauro
+Icardi
+Mario
+Mandzukic
+Diego
+Godin
+Samuel
+Umtiti
+Christian
+Eriksen
+Thibaut
+Courtois
+Gareth
+Bale
+David
+de
+Gea
+Hugo
+Lloris
+Romelu
+Lukaku
+Casemiro
+Alisson
+Ter
+Stegen
+Dele
+Alli
+Dries
+Mertens
+Marco
+Reus
+Karim
+Benzema
+Giorgio
+Chiellini
+Sergio
+Busquets

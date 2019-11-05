@@ -1,0 +1,870 @@
+astronomy
+dna
+air
+helium
+nitrogen
+freon
+scientists
+carbon
+hydrogen
+gas
+light
+fuel
+researchers
+sun
+mars
+mercury
+saturn
+jupiter
+earth
+neptune
+uranus
+venus
+dioxide
+propane
+oxygen
+ozone
+water
+solid
+liquid
+astrophysics
+atom
+beaker
+biochemistry
+biology
+botany
+studies
+Bunsen burner
+burette
+cell
+chemical
+chemistry
+climate
+climatologist
+control
+cuvette
+data
+datum
+electricity
+electrochemist
+element
+energy
+entomology
+evolution
+experiment
+fact
+flask
+fossil
+funnel
+genetics
+geology
+geophysics
+glassware
+graduated cylinder
+gravity
+herpetology
+hypothesis
+ichthyology
+immunology
+lab
+laboratory
+laws
+lepidoptery
+magnetism
+mass
+matter
+measure
+meteorologist
+meteorology
+microbiologist
+microbiology
+microscope
+mineral
+mineralogy
+molecule
+motion
+observatory
+observe
+organism
+ornithology
+paleontology
+study
+particle
+Petri dish
+phase
+physical science
+physics
+pipette
+quantum mechanics
+radiology
+research
+retort
+scale
+science
+scientist
+seismology
+telescope
+temperature
+test tube
+theory
+thermometer
+tissue
+variable
+virologist
+volcanology
+volume
+volumetric flask
+watch glass
+weather
+weigh
+zoology
+albedo
+Alpha Centauri
+apastron
+aperture
+aphelion
+apogee
+asterism
+asteroid
+astronaut
+astronomer
+astronomical unit
+astronomy
+axial tilt
+azimuth
+background radiation
+Bailey\'s beads
+big bang theory
+binary star
+black body
+black hole
+bolometer
+celestial
+celestial equator
+cislunar
+cluster
+comet
+conjunction
+constellation
+Coriolis force
+corona
+cosmic rays
+cosmology
+cosmonaut
+cosmos
+crater
+crescent moon
+dark matter
+day
+declination
+deep space
+Deneb
+density
+docking
+Doppler shift
+double star
+Drake equation
+dust
+dwarf planet
+dwarf star
+Earth
+earthbound
+eccentricity
+eclipse
+ecliptic
+elliptical orbit
+equinox
+escape velocity
+event horizon
+exoplanet
+extragalactic
+falling star
+flare
+flyby
+free fall
+full moon
+galaxy
+gamma ray
+gas giant
+gegenschein
+geostationary
+geosynchronous
+gibbous moon
+globular cluster
+gravitation
+gravitational constant
+gravitational lens
+gravity
+H-R diagram
+half moon
+heliocentric
+helium
+Hubble telescope
+Hubble\'s law
+hydrogen
+hyperbolic orbit
+hypernova
+ice giant
+inclination
+inertia
+inferior planets
+inner planets
+interstellar
+interstellar dust
+ionosphere
+Jupiter
+Kepler\'s laws
+kiloparsec
+Kirkwood gaps
+Kuiper belt
+Lagrange points
+lens
+light-year
+local arm
+local group
+lunar
+magnitude
+mare
+Mars
+mass
+Mercury
+meteor
+meteor shower
+meteorite
+meteoroid
+Milky Way
+minor planet
+Mir
+moon
+muttnik
+nadir
+NASA
+nebula
+Neptune
+neutron star
+new moon
+north star
+nova
+observatory
+occultation
+Oort cloud
+opposition
+orbit
+orbital eccentricity
+orbital inclination
+outer planets
+parallax
+parsec
+partial eclipse
+penumbra
+perigee
+perihelion
+perturbation
+phase
+plane of the ecliptic
+planet
+planetary nebula
+planetoid
+Pluto
+pole star
+precession
+probe
+pulsar
+quarter moon
+quasar
+radiant
+radiation
+red dwarf
+red giant star
+red shift
+revolve
+right ascension
+rings
+Roche limit
+rocket
+satellite
+Saturn
+scientific notation
+scintillation
+shooting star
+sidereal
+singularity
+sky
+solar
+solar 
+solar wind
+solstice
+space
+space exploration
+space station
+spectroscope
+spectrum
+Sputnik
+star
+starlight
+sun
+sunspot
+superior planets
+supernova
+synodic
+syzygy
+telemetry
+telescope
+terminator
+terrestrial
+total eclipse
+totality
+transit
+translunar
+transneptunian
+twinkling
+umbra
+universe
+Uranus
+vacuum
+Van Allen belt
+variable star
+Venus
+vernal equinox
+visual magnitude
+waning
+wavelength
+waxing
+weightlessness
+white dwarf
+white giant
+wormhole
+x-rays
+yellow dwarf
+zenith
+zodiac
+aerodynamics
+agronomy
+anatomy
+anthropology
+archaeology
+astronomy
+atmospheric sciences
+bacteriology
+biochemistry
+biology
+biophysics
+botany
+cartography
+chemistry
+climatology
+computer science
+cosmology
+criminology
+dermatology
+developmental biology
+earth sciences
+ecology
+economics
+embryology
+entomology
+epidemiology
+ergonomics
+ethnology
+evolutionary biology
+exobiology
+forestry
+genetics
+genomics
+geology
+geophysics
+gerontology
+glaciology
+hematology
+herpetology
+histology
+horticulture
+hydrology
+ichthyology
+immunology
+inorganic chemistry
+kinesiology
+kinetics
+linguistics
+marine biology
+materials science
+mechanics
+metallurgy
+meteorology
+microbiology
+mineralogy
+molecular biology
+morphology
+neurology
+neuroscience
+nuclear physics
+nutrition
+oceanography
+oncology
+optics
+organic chemistry
+ornithology
+paleontology
+parasitology
+pathology
+petrology
+physics
+physiology
+political science
+psychology
+quantum chemistry
+quantum physics
+radiology
+robotics
+seismology
+sociobiology
+sociology
+taxonomy
+tectonics
+thermodynamics
+toxicology
+urology
+virology
+volcanology
+vulcanology
+xenobiology
+xylology
+zoology
+Abiosis
+ Abrade
+ Absorption
+ Acceleration
+ Accumulation
+ Acid
+ Acidic
+ Activist
+ Adaptation
+ Agonistic
+ Agrarian
+ Airborne
+ Alchemist
+ Alignment
+ Allele
+ Alluvial
+ Alveoli
+ Ambiparous
+ Amphibian
+ Amplitude
+ Analysis
+ Ancestor
+ Anodize
+ Anomaly
+ Anther
+ Antigen
+ Apiary
+ Apparatus
+ Application
+ Approximation
+ Aquatic
+ Aquifer
+ Arboreal
+ Archeology
+ Artery
+ Assessment
+ Asteroid
+ Atmosphere
+ Atomic
+ Atrophy
+ Attenuate
+ Aven
+ Aviary
+ AxisB)Bacteria
+ Balance
+ Bases
+ Biome
+ Biosphere
+ Black hole
+ Blight
+ BuoyancyC)Calcium
+ Canopy
+ Capacity
+ Capillary
+ Carapace
+ Carcinogen
+ Catalyst
+ Cauldron
+ Celestial
+ Cells
+ Centigrade
+ Centimeter
+ Centrifugal
+ Chemical reaction
+ Chemicals
+ Chemistry
+ Chlorophyll
+ Choked
+ Chromosome
+ Chronic
+ Churn
+ Classification
+ Climate
+ Cloud
+ Comet
+ Composition
+ Compound
+ Compression
+ Condensation
+ Conditions
+ Conduction
+ Conductivity
+ Conservation
+ Constant
+ Constellation
+ Continental
+ Convection
+ Convention
+ Cool
+ Core
+ Cosmic
+ Crater
+ Creature
+ Crystals
+ Cycle
+ CytoplasmD)Dampness
+ Data
+ Decay
+ Decibel
+ Deciduous
+ Defoliate
+ Density
+ Denude
+ Dependency
+ Deposits
+ Depth
+ Desiccant
+ Detritus
+ Development
+ Digestible
+ Dilute
+ Direction
+ Disappearance
+ Discovery
+ Dislodge
+ Displace
+ Dissection
+ Dissolution
+ Dissolve
+ Distance
+ Diurnal
+ Diverse
+ Doldrums
+ DynamicsE)Earthquake
+ Eclipse
+ Ecology
+ Ecosystem
+ Electricity
+ Elements
+ Elevation
+ Embryo
+ Endangered
+ Endocrine
+ Energy
+ Entropy
+ Environment
+ Enzyme
+ Epidermis
+ Epoch
+ Equilibrium
+ Equine
+ Erosion
+ Essential
+ Estuary
+ Ethical
+ Evaporation
+ Event
+ Evidence
+ Evolution
+ Examination
+ Existence
+ Expansion
+Experiment
+ Exploration extinction
+ ExtremeF)Facet
+ Fault
+ Fauna
+ Feldspar
+ Ferment
+ Fission
+ Fissure
+ Flora
+ Flourish
+ Flowstone
+ Foliage
+ Food chain
+ Forage
+ Force
+ Forecast
+ Forensics
+ Formations
+ Fossil fuel
+ Frequency
+ Friction
+ Fungi
+ FusionG)Galaxy
+ Gastric
+ Geo-science
+ Geothermal
+ Germination
+ Gestation
+ Global
+ Gravitation
+ Green
+ Greenhouse effect
+ Grotto
+ GroundwaterH)Habitat
+ Heat
+ Heavens
+ Hemisphere
+ Hemoglobin
+ Herpetologist
+ Hormones
+ Host
+ Humidity
+ Hyaline
+ Hydrogen
+ Hydrology
+ HypothesisI)Ichthyology
+ Illumination
+ Imagination
+ Impact
+ Impulse
+ Incandescent
+ Indigenous
+ Inertia
+ Inevitable
+ Inherit
+ Inquiry
+ Insoluble
+ Instinct
+ Instruments
+ Integrity
+ Intelligence
+ Interact
+ Interdependence
+ Interplanetary
+ Invertebrate
+ Investigation
+ Invisible
+ Ions
+ Irradiate
+ Isobar
+IsotopeJ)Joule
+ Jungle
+ Jurassic
+ JuttingK)Kilometer
+ Kinetics
+ Kingdom
+ KnotL)Laser
+ Latitude
+ Lava
+ Lethal
+ Life
+ Lift
+ Light
+ Limestone
+ Lipid
+ Lithosphere
+ Load
+ Lodestone
+ Luminous
+ LusterM)Magma
+ Magnet
+ Magnetism
+ Mangrove
+ Mantle
+ Marine
+ Marsh
+ Mass
+ Matter
+ Measurements
+ Mechanical
+ Meiosis
+ Meridian
+ Metamorphosis
+ Meteor
+ Microbes
+ Microcosm
+ Migration
+ Millennia
+ Minerals
+ Modulate
+ Moisture
+ Molecule
+ Molten
+ Monograph
+ Monolith
+ Motion
+ Movement
+ Mutant
+ Mutation
+ MysteriousN)Natural
+ Navigable
+ Navigation
+ Negligence
+ Nervous 
+ Nesting
+ Neutrons
+ Niche
+ Nocturnal
+ Nuclear energy
+ Numerous
+ NurtureO)Obsidian
+ Ocean
+ Oceanography
+ Omnivorous
+ Oolites (cave pearls)
+Opaque
+ Orbit
+ Organ
+ Organism
+ Ornithology
+ Osmosis
+ OxygenP)Paleontologist
+ Parallax
+ Particle
+ Penumbra
+ Percolate
+ Permafrost
+ Permutation
+ Petrify
+ Petrograph
+ Phenomena
+ Physical property
+ Planetary
+ Plasma
+Polar
+ Pole
+ Pollination
+ Polymer
+ Population
+ Precipitation
+ Predator
+ Prehensile
+ Preservation
+ Preserve
+ Pressure
+ Primate
+ Pristine
+ Probe
+ Process
+ Propagation
+ Properties
+ Protected
+ Proton
+ PulleyQ)Qualitative data
+ Quantum
+ Quark
+ QuarryR)Radiation
+ Radioactivity
+ Rain forest
+ Ratio
+ Reaction
+ Reagent
+ Realm
+ Redwoods
+ Reeds
+ Reflection
+ Refraction
+ Relationships
+ Reptile
+ Research
+ Resistance
+ Resonate
+ Rookery
+ Rubble
+ RunoffS)Salinity
+ Sandbar
+ Satellite
+ Saturation
+ Scientific investigation
+ Scientist
+ Sea floor
+ Season
+ Sedentary
+ Sediment
+ Sedimentary
+ Seepage
+ Seismic
+ Sensors
+ Shard
+ Similarity
+ Solar
+ Soluble
+ Solvent
+ Sonic
+ Sound
+ Source
+ Species
+ Spectacular
+ Spectrum
+ Speed
+ Sphere
+ Spring
+ Stage
+ Stalactite
+ Stalagmites
+ Stimulus
+ Substance
+ Subterranean
+ Sulfuric acid
+ Surface
+ Survival
+ Swamp
+ Sylvan
+ Symbiosis
+ Symbol
+ Synergy
+ SynthesisT)Taiga
+ Taxidermy
+ Technology
+ Tectonics
+ Temperate
+ Temperature
+ Terrestrial
+ Thermals
+ Thermometer
+ Thrust
+ Torque
+ Toxin
+ Trade winds
+ Transformation tremors
+ TropicalU)Umbra
+ Unbelievable
+ Underwater
+ Unearth
+ Unique
+ Unite
+ Unity
+ Universal
+ Unpredictable
+ Unusual
+ UrsineV)Vacuole
+ Valuable
+ Vapor
+Variable
+ Variety
+ Vast
+ Velocity
+ Ventifact
+ Verdant
+ Vespiary
+ Viable
+ Vibration
+ Virus
+ Viscosity
+ Visible
+ Vista
+ Vital
+ Vitreous
+ Volt
+ Volume
+ VulpineW)Wave
+ Wax
+ Weather
+ Westerlies
+ Wetlands
